@@ -11,7 +11,7 @@ public class jdbcconnection {
 		// SQL database details
 		String url = "jdbc:mysql://localhost:3310/EmployeeDB";
 		String user = "root";
-		String password = "Ky@2001";
+		String password = "root";
 
 		// Data to insert
 		Object[][] employeeData = { { 101, "Jenny", 25, 10000 }, { 102, "Jacky", 30, 20000 }, { 103, "Joe", 20, 40000 },
